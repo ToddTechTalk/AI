@@ -1,0 +1,1 @@
+This TensorFlow project is one of my hands-on projects when I studied the Deep Learning course this summer. It helps to understand what Tensors and operations are, as well as how to execute them in a computation graph. Using the SIGNS dataset, I built a deep neural network model to recognize numbers from 0 to 5 in sign language with a pretty impressive accuracy.
